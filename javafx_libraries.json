@@ -1,0 +1,24 @@
+{
+  "javafx_sdk_path": "C:\\Java FX\\javafx-sdk-21.0.8\\lib",
+  "files": [
+    "javafx-swt.jar",
+    "javafx.base.jar",
+    "javafx.controls.jar",
+    "javafx.fxml.jar",
+    "javafx.graphics.jar",
+    "javafx.media.jar",
+    "javafx.properties",
+    "javafx.swing.jar",
+    "javafx.web.jar"
+  ],
+  "jar_libraries": [
+    "javafx-swt.jar",
+    "javafx.base.jar",
+    "javafx.controls.jar",
+    "javafx.fxml.jar",
+    "javafx.graphics.jar",
+    "javafx.media.jar",
+    "javafx.swing.jar",
+    "javafx.web.jar"
+  ]
+}
